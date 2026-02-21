@@ -399,15 +399,23 @@ This repository demonstrates enterprise-grade Flutter architecture. When contrib
 
 ---
 
-## License
+## Usage Notice
 
-[Specify your license here]
+This repository is created for portfolio and architecture demonstration purposes only.
+Business logic and production code are not included.
 
 ---
 
 ## Contact
 
-[Your contact information]
+Aditya Verma
+Senior Flutter Developer | Cross-Platform Mobile Engineer
+Helping Startups Build Scalable, Real-Time & High-Performance Apps
+
+📧 adityaverma15.cs@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/aditya-verma-122318212/
+🌍 Available for Freelance & Remote Projects
 
 ---
 

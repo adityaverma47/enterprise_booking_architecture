@@ -415,6 +415,7 @@ Helping Startups Build Scalable, Real-Time & High-Performance Apps
 📧 adityaverma15.cs@gmail.com
 
 🔗 LinkedIn: https://www.linkedin.com/in/aditya-verma-122318212/
+
 🌍 Available for Freelance & Remote Projects
 
 ---
